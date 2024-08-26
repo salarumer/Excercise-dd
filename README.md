@@ -1,4 +1,4 @@
-# weather_app
+# Excercise_Db
 
 A new Flutter project.
 
